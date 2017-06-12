@@ -1,0 +1,12 @@
+/* Webfont: MaisonNeue-Bold */@font-face {
+    font-family: 'MaisonNeue2';
+    src: url('MaisonNeue-Bold.eot'); /* IE9 Compat Modes */
+    src: url('MaisonNeue-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('MaisonNeue-Bold.woff') format('woff'), /* Modern Browsers */
+         url('MaisonNeue-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('MaisonNeue-Bold.svg#MaisonNeue-Bold') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: bold;
+    text-rendering: optimizeLegibility;
+}
+
